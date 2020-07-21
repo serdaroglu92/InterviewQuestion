@@ -101,8 +101,8 @@ public class QueryResultTable
 
 QueryResultTable members:
 	
-Starts from 01.01.2020 00:05 and iterates 34559 times to increase date with 5 minutes intervals.
-So it will be around 4 months of data. Every date period has the exact same values.
+Starts from 01.01.2020 00:05 and iterates 1.576.800 times to increase date with 5 minutes intervals.
+So it will be around 15 years of data. Every date period has the exact same values.
 	
 ```
 {
