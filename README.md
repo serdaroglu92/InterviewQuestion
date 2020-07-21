@@ -1,5 +1,13 @@
 # InterviewQuestion
 
+What we want from you here is to bring together a large number of data that you have, then grouping them by dates by using the merge formulas specified by the user.
+
+As you can see in the examples below, you have 4 samples for every 5 minutes of history. We ask you to merge these samples to 1 sample at the end of the process. While doing this, we want you to bring the values into aggregated value by using avg, sum, max, min functions. These functions are already defined by the user.
+
+What we are trying to see in this question is how you can find a solution to this kind of problem. If you use linq, how much knowledge do you have on linq. At the same time, how fast you can bring results on large data.
+
+Let's start with the steps of our question.
+
 ### 1. You have a list of QueryElement objects:
 
 QueryElement Model:
